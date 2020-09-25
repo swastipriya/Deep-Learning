@@ -1,1 +1,1 @@
-
+Experiment with different Model Optimizers - Momentum Optimizer, Adam Optimizer and RMSProp Optimizer. The learning rate decay schedules is used in combination with Momentum Optimizer only. The deep learning framework is TensorFlow.
